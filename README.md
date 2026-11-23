@@ -24,3 +24,13 @@ Data de acesso: 22/11/2026.
 
 [Página oficial da base](https://dadosabertos.saude.gov.br/dataset/sih_producao_hospitalar)
 · [Download do ZIP de 2024](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/saes/drac/SIH_Pprocedimento_Hosp/csv/sih_procedimentos_hospitalares_sus_2024_csv.zip)
+
+## Como executar
+
+1. Baixe o [notebook AV3 AIH SALVADOR.ipynb](AV3%20AIH%20SALVADOR.ipynb).
+2. No Google Colab, vá em **Arquivo → Fazer upload de notebook** e selecione o arquivo.
+3. Clique em **Ambiente de execução → Executar tudo**.
+
+A primeira célula baixa o ZIP oficial do SIH/SUS. As células seguintes
+filtram os registros de Salvador, preparam a base e exibem as tabelas
+e o gráfico da análise.
