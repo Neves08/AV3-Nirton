@@ -34,3 +34,12 @@ Data de acesso: 22/11/2026.
 A primeira célula baixa o ZIP oficial do SIH/SUS. As células seguintes
 filtram os registros de Salvador, preparam a base e exibem as tabelas
 e o gráfico da análise.
+
+## Ambiente de execução
+
+O notebook foi executado no Google Colab com estas versões:
+
+- Python 3.13.18
+- pandas 2.2.3 — leitura, limpeza e análise dos dados
+- Matplotlib 3.10.0 — geração do gráfico
+- PyArrow 23.0.1 — exportação da base tratada em Parquet
