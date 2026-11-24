@@ -43,3 +43,17 @@ O notebook foi executado no Google Colab com estas versões:
 - pandas 2.2.3 — leitura, limpeza e análise dos dados
 - Matplotlib 3.10.0 — geração do gráfico
 - PyArrow 23.0.1 — exportação da base tratada em Parquet
+
+  ## Integrantes
+
+- DEIVSON LAUREANO VIEIRA PIRES
+- LEONARDO DA SILVA BADAUÊ
+- LUCAS KELVIM SILVA CASTRO
+- WENDEL SANTOS MUNIZ
+- YAN MOTA ESQUIVEL DAS NEVES
+
+## Organização do repositório
+
+- `AV3 AIH SALVADOR.ipynb` — notebook com a importação, a limpeza e a análise dos dados.
+- `requirements.txt` — bibliotecas e versões usadas no projeto.
+- `README.md` — descrição do trabalho, fonte dos dados e instruções de execução.
