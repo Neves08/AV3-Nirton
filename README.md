@@ -46,6 +46,7 @@ O notebook foi executado no Google Colab com estas versões:
 
   ## Integrantes
 
+- CAMILA LACERDA BARBOSA
 - DEIVSON LAUREANO VIEIRA PIRES
 - LEONARDO DA SILVA BADAUÊ
 - LUCAS KELVIM SILVA CASTRO
